@@ -45,7 +45,7 @@ export const useStyles = makeStyles((theme: Theme) =>
       fontSize: '16px',
       letterSpacing: '1px',
       textTransform: 'uppercase',
-      backgroundColor:' #4CAF50',
+      backgroundColor:' #4CAF',
       padding: '15px 32px',
       textAlign:'center',
       margin:'4px 2px',
