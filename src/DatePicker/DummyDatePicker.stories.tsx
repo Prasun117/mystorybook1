@@ -6,4 +6,4 @@ export default {
     component: DummyDatePicker,
   };
 
-  export const DefaultDate=()=><DummyDatePicker></DummyDatePicker>;
+  export const DefaultDate = () =><DummyDatePicker></DummyDatePicker>;
