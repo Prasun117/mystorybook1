@@ -1,9 +1,8 @@
 import React from 'react'
-
 import {DummyDatePicker} from './DummyDatePicker'
 
 export default {
-    title: 'Dummy Component/DatePicker',
+    title: 'Example/Datepicker',
     component: DummyDatePicker,
   };
 
