@@ -1,0 +1,13 @@
+.searchbox
+{
+    display: flex;
+    flex:0.7;
+    background-color: whitesmoke;
+
+}
+.searchbox>input{
+outline:none;
+border:none;
+width:100%;
+background-color:transparent;
+}
