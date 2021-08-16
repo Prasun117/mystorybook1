@@ -12,6 +12,12 @@ module.exports = {
     "@storybook/addon-knobs"
 
   ],
+  refs: {
+    'design-system': { 
+      title: "Design System", 
+      url: "https://5ccbc373887ca40020446347-yldsqjoxzb.chromatic.com"
+    }
+   }
 
   
 }
