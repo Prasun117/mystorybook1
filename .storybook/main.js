@@ -14,7 +14,7 @@ module.exports = {
   ],
   refs: {
     'design-system': { 
-      title: "Design System", 
+      title: "Second Storybook instance", 
       url: "https://5ccbc373887ca40020446347-yldsqjoxzb.chromatic.com"
     }
    }
